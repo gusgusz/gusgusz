@@ -14,4 +14,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusgusz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- https://github.com/gusgusz/gusgusz/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/gusgusz/gusgusz/blob/output/github-contribution-grid-snake.svg)
