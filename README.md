@@ -159,9 +159,6 @@
 
 ##
 
-<div>
-  <img align="center" src="https://github.com/gusgusz/gusgusz/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
-</div>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
