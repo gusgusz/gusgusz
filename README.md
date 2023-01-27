@@ -1,4 +1,9 @@
 ### Hi there, my name is Gustavo - but you can call me Gus 👋
+<h1 align="center">Hi  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, my name is Gustavo - but you can call me Gus</h1>
+
+[![Gmail Badge](https://img.shields.io/badge/-gustavoguimaraescampsgmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gustavoguimaraescamps@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guimarães-campos-127315217/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-@gusggc-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gusggc/ "Follow on Instagram")
 
 
 - 🔭 I’m currently working as Full-Stack developer, but I’m a back-end lover
