@@ -12,11 +12,6 @@
 - ⚡ Fun fact: I'm currently working as a software developer, delving into data science - and studying electronic engineering at UFSC - but in the future, I have a big dream of applying my knowledge in the research area of biomedical engineering.
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusgusz&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusgusz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div>
   <div>
     <h2>Languages</h2>
     <div>
@@ -154,11 +149,12 @@
 
 ##
 
+  
 <div align="center">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-bernardino747&show_icons=true&locale=en&layout=compact" alt="daniel-bernardino747" />
-  &nbsp;
-  <img height="120em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-bernardino747&" alt="daniel-bernardino747" />
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-bernardino747&show_icons=true&locale=en" alt="daniel-bernardino747" />
+<a href="https://github.com/gusgusz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusgusz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusgusz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gusgusz&theme=dracula" alt="gusgusz" />
 </div>
 
 ##
