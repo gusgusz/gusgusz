@@ -78,9 +78,6 @@
       <a href="https://www.postgresql.org/" target="blank">
          <img align="center" alt="" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       </a>
-      <a href="https://tailwindcss.com/" target="blank">
-         <img align="center" alt="tailwindcss" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-      </a>
       <a href="" target="blank">
          <img align="center" alt="" height"60" width="80" src="" />
       </a>
