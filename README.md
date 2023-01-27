@@ -105,9 +105,6 @@
       <a href="https://www.postgresql.org/" target="blank">
          <img src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&color=336791" /> 
       </a>
-      <a href="https://tailwindcss.com/" target="blank">
-         <img src="https://img.shields.io/badge/-tailwindcss-blue?style=for-the-badge&color=38b2ac" /> 
-      </a>
     </div>
   </div>
   
@@ -118,9 +115,6 @@
   <div>
     <h2>Editors and Tools</h2>
     <div>
-      <a href="https://www.jetbrains.com/" target="blank">
-         <img align="center" alt="jetbrains" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-      </a>
       <a href="https://code.visualstudio.com/" target="blank">
          <img align="center" alt="vscode" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
          <a href="https://git-scm.com/" target="blank">
@@ -135,15 +129,9 @@
       <a href="https://www.mysql.com/" target="blank">
          <img align="center" alt="mysql" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       </a>
-      <a href="https://kernel.org/" target="blank">
-         <img align="center" alt="linux" height"60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      </a>
     </div>
     _____
     <div>
-      <a href="https://www.jetbrains.com/" target="blank">
-         <img src="https://img.shields.io/badge/-jetbrains-blue?style=for-the-badge&color=000" /> 
-      </a>
       <a href="https://code.visualstudio.com/" target="blank">
          <img src="https://img.shields.io/badge/-vscode-blue?style=for-the-badge&color=0176c6" /> 
       </a>
@@ -158,9 +146,6 @@
       </a>
       <a href="https://www.mysql.com/" target="blank">
          <img src="https://img.shields.io/badge/-mysql-blue?style=for-the-badge&color=00618a" /> 
-      </a>
-      <a href="https://kernel.org/" target="blank">
-         <img src="https://img.shields.io/badge/-linux-blue?style=for-the-badge&color=fed24e" /> 
       </a>
     </div>
   </div>
@@ -179,7 +164,7 @@
 ##
 
 <div>
-  <img align="center" src="https://github.com/daniel-bernardino747/daniel-bernardino747/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
+  <img align="center" src="https://github.com/gusgusz/gusgusz/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
 </div>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
