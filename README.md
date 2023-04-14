@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, my name is Gustavo - but you can call me Gus</h1>
+<h1 align="center">Hi  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, my name is Gustavo </h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-gustavoguimaraescampsgmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gustavoguimaraescamps@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guimarães-campos-127315217/ "Connect on LinkedIn")
