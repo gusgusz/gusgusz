@@ -5,9 +5,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-@gusggc-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gusggc/ "Follow on Instagram")
 
 🔭 I'm currently working as a Full-Stack developer, with a strong interest in exploring various aspects of technology.
+
 🌱 I'm continuously expanding my skills and knowledge, including areas such as data analysis, machine learning, and related fields.
+
 👯 I'm open to collaborating on projects that allow me to leverage my expertise in software development and explore new horizons in technology.
+
 😄 Pronouns: He/His.
+
 ⚡ Fun fact: In addition to my work as a software developer, I'm also pursuing a degree in Electronic Engineering at UFSC. I have a deep curiosity and enthusiasm for learning, always seeking to broaden my understanding of different domains in the tech industry.
 
 <div>
