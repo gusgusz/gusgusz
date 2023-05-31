@@ -4,12 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-guimarães-campos-127315217/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-@gusggc-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gusggc/ "Follow on Instagram")
 
-
-- 🔭 I’m currently working as Full-Stack developer, but I’m a back-end lover
-- 🌱 I’m currently learning Data Science with Python
-- 👯 I’m looking to collaborate as back-end developer
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm currently working as a software developer, delving into data science - and studying electronic engineering at UFSC - but in the future, I have a big dream of applying my knowledge in the research area of biomedical engineering.
+🔭 I'm currently working as a Full-Stack developer, with a strong interest in exploring various aspects of technology.
+🌱 I'm continuously expanding my skills and knowledge, including areas such as data analysis, machine learning, and related fields.
+👯 I'm open to collaborating on projects that allow me to leverage my expertise in software development and explore new horizons in technology.
+😄 Pronouns: He/His.
+⚡ Fun fact: In addition to my work as a software developer, I'm also pursuing a degree in Electronic Engineering at UFSC. I have a deep curiosity and enthusiasm for learning, always seeking to broaden my understanding of different domains in the tech industry.
 
 <div>
   <div>
