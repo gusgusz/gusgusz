@@ -12,8 +12,6 @@
 
 😄 Pronouns: He/His.
 
-⚡ Fun fact: In addition to my work as a software developer, I'm also pursuing a degree in Electronic Engineering at UFSC. I have a deep curiosity and enthusiasm for learning, always seeking to broaden my understanding of different domains in the tech industry.
-
 <div>
   <div>
     <h2>Languages</h2>
